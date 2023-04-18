@@ -267,13 +267,13 @@ background-color: var(--color-white);
 .portfolio {
 }
 .portfolio-title {
- 
 }
 .portfolio-btn-list {
   
 }
 .portfolio-btn {
   font-size: 16px;
+  font-family: "Roboto", sans-serif
 	font-weight: 500;
 	font-style: normal;
 	line-height: 1.5;
@@ -298,7 +298,8 @@ background-color: var(--color-white);
 .portfolio-img {
 }
 .portfolio-item-title {
+  color: var(--color-navy-blue);
 }
 .portfolio-item-subtitle {
- 
+ color: var(--color-slate);
 }
